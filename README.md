@@ -1,5 +1,8 @@
-### Hi there 👋
-
+- 👋 Hi, I'm Francis McKee
+- ⚡ I'm mainly interested in web design, but also enjoy experimenting and making things in other languages.
+- 🌱 I'm currently learning C# and the Unity game engine to make games!
+- 👀 I'm looking for work as a web designer, Discord bot developer, or other related jobs in the field!
+- 📫 Reach out to me via email - frankmckee1203@gmail.com
 <!--
 **Francis-McKee/Francis-McKee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
