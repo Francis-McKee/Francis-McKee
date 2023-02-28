@@ -4,6 +4,8 @@
 - 👀 I'm looking for work as a web designer, Discord bot developer, or other related jobs in the field!
 - 📫 Reach out to me via text at (252)-214-3054, email at frankmckee1203@gmail.com, or through Discord at FrankzeeTank#1574.
 
+View GitHub stats below (and click for code credit 😄).
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francis-mckee&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Francis-McKee/Francis-McKee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
