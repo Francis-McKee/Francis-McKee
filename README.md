@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Francis McKee!
 - ⚡ I'm mainly interested in web design, but also enjoy experimenting and making things in other languages.
-- 🌱 I'm currently learning C# and the Unity game engine to make games!
+- 🌱 I'm currently learning C# and the Unity game engine at school, and PHP & MySQL at home!
 - 👀 I'm looking for work as a web designer, Discord bot developer, or other related jobs in the field!
 - 📫 Reach out to me via text at (252)-214-3054, email at frankmckee1203@gmail.com, or through Discord at FrankzeeTank#1574.
 
