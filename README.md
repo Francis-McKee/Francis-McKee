@@ -5,8 +5,8 @@ https://fnmckee.com/
 ⚡ Web Developer <br>🌱 I'm currently taking courses online through Study.com, and auditing Coursera courses for fun!<br>👀 I'm looking for work as a web developer, including contract positions and internships.<br>📫 Reach out to me via email at frankmckee1203@gmail.com.
 
 # 💻 **Tech Stack:**
-**Programming:** HTML, CSS, JS, Jekyll, Git, C#, C++
-**Operating Systems:** Windows, iOS, Mac OS X
+**Programming:** HTML, CSS, JS, Jekyll, Git, C#, C++ <br>
+**Operating Systems:** Windows, iOS, Mac OS X <br>
 **Applications:** Google Suite, Microsoft Office, Visual Studio, GitHub, Replit, Itch.io, Unity, Photoshop, Google Drawings, Simple Different, Screaming Frog SEO, Trello, Google Adsense, Firebase, Google Cloud Console
 
 # 📊 **GitHub Stats:**
