@@ -7,7 +7,7 @@ https://fnmckee.com/
 # 💻 **Tech Stack:**
 **Programming:** HTML, CSS, JS, Jekyll, Git, C#, C++ <br>
 **Operating Systems:** Windows, iOS, Mac OS X <br>
-**Applications:** Google Suite, Microsoft Office, Visual Studio, GitHub, Replit, Itch.io, Unity, Photoshop, Google Drawings, Simple Different, Screaming Frog SEO, Trello, Google Adsense, Google Analytics, Google Firebase, Google Cloud Console
+**Applications:** Google Suite, Microsoft Office, Visual Studio, GitHub, Replit, Itch.io, Unity, Photoshop, Google Drawings, Simple Different, Screaming Frog SEO, Trello, Google Adsense, Google Analytics, Google Firebase, Google Cloud Console <br>
 **Certifications:** AWS Certified Cloud Practitioner (Expires Dec. 2028)
 
 # 📊 **GitHub Stats:**
