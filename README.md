@@ -2,7 +2,10 @@
 https://fnmckee.com/
 
 # 💫 **About Me:**
-⚡ Web Developer <br>🌱 I'm currently taking college courses online through WGU for a Bachelor's degree in Software Engineering.<br>👀 I'm looking for work as a web developer, including contract positions and internships.<br>📫 Reach out to me via email at frankmckee1203@gmail.com.
+* Web Developer
+* I'm currently taking college courses online through WGU for a Bachelor's degree in Software Engineering.
+* I'm looking for work as a web developer, including contract positions and internships.
+Reach out to me via email at frankmckee1203@gmail.com.
 
 # 💻 **Tech Stack:**
 **Programming:** HTML, CSS, JS, Jekyll, Git, C# <br>
