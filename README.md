@@ -1,9 +1,9 @@
 ## 👋 **Hi, I'm Francis McKee!**
-https://fnmckee.com/
+Contract Web Developer | WGU '26 Software Engineering
+https://francismckee.com/
 
 # **About Me:**
-* Web Developer
-* I'm currently taking college courses online through WGU for a Bachelor's degree in Software Engineering.
+
 * I'm looking for work as a web developer, including contract positions and internships.
 * Reach out to me via email at frankmckee1203@gmail.com
 
