@@ -1,5 +1,4 @@
 ## 👋 **Hi, I'm Francis McKee!**
-Contract Web Developer | WGU '26 Software Engineering  
 https://francismckee.com/
 
 # **About Me:**
