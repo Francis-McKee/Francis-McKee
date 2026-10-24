@@ -10,5 +10,5 @@ https://francismckee.com/
 # **Tech Stack:**
 * **Programming:** HTML, CSS, JS, Jekyll, Git, C#
 * **Operating Systems:** Windows, iOS, Mac OS X
-* **Applications:** Google Suite, Microsoft Office, Visual Studio Code, GitHub, Google Search Console, Google Analytics, Google Firebase, Google Cloud Console, Itch.io, Screaming Frog SEO
+* **Applications:** Visual Studio Code, GitHub, Google Search Console, Google Analytics, Google Firebase
 * **Certifications:** AWS Certified Cloud Practitioner (Expires Dec. 2028), ITIL Foundation Certificate in IT Service Managment (Expires May 2029)
