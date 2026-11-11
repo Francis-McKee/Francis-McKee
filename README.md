@@ -3,7 +3,7 @@ https://francismckee.com/
 
 # **About Me:**
 
-* Founder of Francis N. McKee & Associates, where I develop websites and landing pages for small businesses, helping them strengthen their online presence through web development, and improve their search visibility with SEO and Apple and Google Business listings.
+* Founder of *Francis N. McKee & Associates, LLC*, where I develop websites and landing pages for small businesses, helping them strengthen their online presence through web development, and improve their search visibility with SEO and Apple and Google Business listings.
 * I'm looking for full-time or part-time work as a web developer, including contract positions and internships.
 * Reach out to me via email at frankmckee1203@gmail.com
 
